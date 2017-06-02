@@ -1,6 +1,6 @@
 # vue-vue-router-note
 
-> A Vue.js project
+> A Vue+Vuex+Router editorNote
 
 ## Build Setup
 
